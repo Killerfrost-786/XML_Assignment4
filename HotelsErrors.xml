@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel>
+<Hotel Rating="4.1">
+<Name> Holiday Inn Express & Suites Phoenix  </Name>
+<Phone> 602-453-9900 </Phone>
+<Address NearstAirport="Phoenix">
+<Number> 3401 </Number>
+<Street> E. University Dr.</Street>
+<City>Phoenix</City>
+<State>AZ</State>
+<Zip>85034</Zip>
+</Address>
+</Hotel>
+<Hotel Rating="4.2">
+<Name> Delta Hotels Phoenix Mesa  </Name>
+<Phone> 1-480-898-8300 </Phone>
+<Address>
+<Number> 200 </Number>
+<Street> North Centennial Way</Street>
+<City>Mesa</City>
+<State>AZ</State>
+<Zip>85201</Zip>
+</Address>
+</Hotel>
+<Hotel Rating="4.2">
+<Name> Courtyard Tucson Williams Centre</Name>
+<Phone> 1-520-745-6000 </Phone>
+<Address NearstAirport="Tucson">
+<Number> 201 </Number>
+<Street> South Williams Boulevard</Street>
+<City> Tucson </City>
+<State>AZ</State>
+<Zip>85711</Zip>
+</Address>
+</Hotel>
+<Hotel Rating="4.4">
+<Name> Renaissance Phoenix Downtown Hotel </Name>
+<Address NearstAirport="Phoenix">
+<Number> 100 </Number>
+<Street> N 1st Street</Street>
+<City>Phoenix</City>
+<State>AZ</State>
+<Zip>85004</Zip>
+</Address>
+</Hotel>
+<Hotel Rating="4.3">
+<Name> Marriott Phoenix Resort Tempe at The Buttes </Name>
+<Phone> 1-602-225-9000 </Phone>
+<Address NearstAirport="Phoenix">
+<Number> 2000 </Number>
+<Street> W Westcourt Way</Street>
+<City>Tempe</City>
+<State>AZ</State>
+<Zip>85282</Zip>
+</Hotel>
+<Hotel Rating="4.3">
+<Name> Element Chandler Fashion Center </Name>
+<Phone> 1-480-553-7277 </Phone>
+<Address NearstAirport="Phoenix">
+<Number> 44 </Number>
+<Street> S Chandler Village Dr</Street>
+<City>Chandler</City>
+<State>AZ</State>
+<Zip>85226</Zip>
+</Address>
+</Hotel>
+<Hotel >
+<Name> Aloft Phoenix-Airport</Name>
+<Name> Aloft Phoenix</Name>
+<Phone> 1-602-4539900 </Phone>
+<Address NearstAirport="Phoenix">
+<Number> 4450 </Number>
+<Street> East Washington </Street>
+<City>Phoenix</City>
+<State>AZ</State>
+<Zip>85034</Zip>
+</Address>
+</Hotel>
+<Hotel Rating="4.1">
+<Name> Hyatt Place Phoenix/Gilbert </Name>
+<Phone> 1-480-899-5900 </Phone>
+<Address NearstAirport="CHD">
+<Number> 3275 </Number>
+<Street> S Market St</Street>
+<City>Gilbert</City>
+<State>AZ</State>
+<Zip>85297</Zip>
+</Address>
+</Hotel>
+<Hotel Rating="4.4">
+<Name> Sheraton Phoenix Downtown </Name>
+<Phone> 1-602-262-2500 </Phone>
+<Address NearstAirport="Phoenix">
+<Number> 340 </Number>
+<Street> N 3rd St.</Street>
+<City>Phoenix</City>
+<State>AZ</State>
+<Zip>85004</Zip>
+</Address>
+</Hotel>
+<Hotel Rating="4.4">
+<Name> SpringHill Suites by Marriott Yuma </Name>
+<Phone> 1-928-783-7853 </Phone>
+<Phone> 1-888-287-9400</Phone>
+<Address NearstAirport="YUM">
+<Number> 1825 </Number>
+<Street> E 18th Street</Street>
+<City>Yuma</City>
+<State>AZ</State>
+<Zip>85365</Zip>
+</Address>
+</Hotel>
+</Hotels>
