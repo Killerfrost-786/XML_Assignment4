@@ -66,6 +66,8 @@
 <Zip>85226</Zip>
 </Address>
 </Hotel>
+<Hotel >
+<Name> Aloft Phoenix-Airport</Name>
 <Phone> 1-602-4539900 </Phone>
 <Address NearstAirport="Phoenix">
 <Number> 4450 </Number>
