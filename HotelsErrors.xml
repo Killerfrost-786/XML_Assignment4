@@ -14,7 +14,7 @@
 <Hotel Rating="4.2">
 <Name> Delta Hotels Phoenix Mesa  </Name>
 <Phone> 1-480-898-8300 </Phone>
-<Address>
+<Address NearstAirport="">
 <Number> 200 </Number>
 <Street> North Centennial Way</Street>
 <City>Mesa</City>
