@@ -3,16 +3,13 @@
 <xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:element name="Hotels">
     <xs:complexType>
-      <!-- Each Hotel can have this data structure -->
       <xs:sequence>
         <xs:element maxOccurs="unbounded" name="Hotel">
-        <xs:attribute name="Rating" type="xs:decimal" use="optional" />
           <xs:complexType>
             <xs:sequence>
               <xs:element name="Name" type="xs:string" />
               <xs:element minOccurs="1"  maxOccurs="unbounded" name="Phone" type="xs:string" />
               <xs:element name="Address">
-                <xs:attribute name="NearstAirport" type="xs:string" use="required" />
                 <xs:complexType>
                   <xs:sequence>
                     <xs:element name="Number" type="xs:unsignedInt"/>
@@ -21,9 +18,11 @@
                     <xs:element name="State" type="xs:string" />
                     <xs:element name="Zip" type="xs:unsignedInt" />
                   </xs:sequence>
+                  <xs:attribute name="NearstAirport" type="xs:string" use="required" />
                 </xs:complexType>
               </xs:element>
             </xs:sequence>
+            <xs:attribute name="Rating" type="xs:decimal" use="optional" />
           </xs:complexType>
         </xs:element>
       </xs:sequence>
